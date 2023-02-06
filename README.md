@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+
+- read the paper and understand the method
+- take a preptrained model on HuggingFace and test the approach
+
 # Attention flow
 
 This repository contain implementations of __Attention Rollout__ and __Attention Flow__ algorithms, which are post hoc methods to get more explanatory attention weights.
